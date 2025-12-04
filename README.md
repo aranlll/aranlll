@@ -81,13 +81,15 @@
   - 행정동별 통계 대시보드 개발
   - 머신러닝 기반 부족 지역 예측 모델 구현
 
-- `Everyware-RansomWare` - 랜섬웨어 기술 분석 및 기능 구현
+- ☢️ Everyware-RansomWare
+  - 랜섬웨어 기술 분석 및 기능 구현
 ---
 
 ## ✔️ 학습용 저장소 목록 및 기술 스택 정리
 
 ### 🔨 학습 저장소
-- `Algorithm-Study` — java를 사용 알고리즘 풀이 기록
+- 📚Algorithm-Study
+  - java를 사용한 알고리즘 풀이 기록
 
 
 ### 🧰 기술 스택
