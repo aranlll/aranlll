@@ -17,7 +17,7 @@
 
 부산 남구를 시작으로 **공공화장실 데이터를 분석·시각화하고 AI로 부족 지역을 예측하는 대시보드 서비스**입니다.
 
-🔗 **GitHub Repository:** (본인 저장소 링크 삽입)  
+🔗 **GitHub Repository:** (https://github.com/yuurmj/public-toilet-datamap)
 📌 **한 줄 설명:** 공공화장실 위치·통계·예측을 하나의 대시보드에서 볼 수 있는 프로젝트  
 
 ### 🎯 프로젝트 목적  
@@ -49,17 +49,12 @@
 
 ## 📈 GitHub Activity
 
-### ✔ Stats  
-![Aran's GitHub stats](https://github-readme-stats.vercel.app/api?username=aranlll&show_icons=true)
+### ✔ Stats
+![Aran's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aranlll&show_icons=true&v=1)
 
-### ✔ Trophy  
-![trophy](https://github-profile-trophy.vercel.app/?username=aranlll)
+### ✔ Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=aranlll&theme=flat&v=1)
 
-### ✔ Recent Work Summary  
-- Total Commits: **35+**  
-- Pull Requests: **10+**  
-- Issues: **10+**  
-- 참여 활동: 팀 프로젝트 개발 + 타팀 협업 PR + 데이터 처리 + 대시보드 UI 구현  
 
 ---
 
