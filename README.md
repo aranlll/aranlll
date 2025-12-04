@@ -4,7 +4,7 @@
 
 ---
 
-## 🔧 기술 스택택 
+## 🔧 기술 스택
 **Frontend:** React, HTML, CSS, JavaScript  
 **Backend:** Spring Boot, MySQL  
 **AI / Data:** Python, Pandas, Scikit-learn  
