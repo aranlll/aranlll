@@ -46,28 +46,6 @@
 - 통계 카드, 예측 결과 패널, 차트 배치  
 
 ---
-## 📌 4. 현재까지 진행한 GitHub 활동 내역
-
-### ✔️ GitHub Contribution 그래프
-<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=aranlll&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&hide_border=true" width="90%"></a>
-
-
-### ✔️ GitHub Stats
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=aranlll&show_icons=true&theme=default) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=aranlll&theme=default) |
-
----
-
-### ✔️ GitHub Profile Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=aranlll&theme=flat&row=1)
-
----
-
-### ✔️ solved.ac 잔디
-![Mazandi Profile](https://mazandi.herokuapp.com/api?handle=aranlll&theme=warm)
-
----
 
 ### ✔️ 최근 기여 내역  
 (Commits · Pull Requests · Issues)
@@ -91,7 +69,7 @@
 #### 🟣 2) Pull Requests (협업 기여)
 - 협업 팀의 ML 모델 결과 표시 PR 리뷰 참여  
 
-#### 🟣 5) 문서 정리 & 프로젝트 관리
+#### 🟣 3) 문서 정리 & 프로젝트 관리
 - 매주 회의록 노션에 기록
 - 회의록은 docs/meeting 에 업로드
 
