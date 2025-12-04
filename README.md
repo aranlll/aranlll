@@ -49,8 +49,7 @@
 ## 📌 4. 현재까지 진행한 GitHub 활동 내역
 
 ### ✔️ GitHub Contribution 그래프
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aranlll&theme=github)
-
+<a><img src="https://github-readme-activity-graph.vercel.app/graph?username=aranlll&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&hide_border=true" width="90%"></a>
 
 ### ✔️ GitHub Stats
 | GitHub Stats | Streak Stats |
