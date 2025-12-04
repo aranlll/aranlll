@@ -50,8 +50,7 @@
 ## 📈 GitHub Activity
 
 ### ✔ Stats
-<img src="https://ghchart.rshah.org/
-aranlll"/>
+<img src="https://ghchart.rshah.org/aranlll"/>
 
 ### ✔ Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=aranlll&theme=flat&v=1)
