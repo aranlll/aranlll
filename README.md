@@ -50,7 +50,7 @@
 ## 📈 GitHub Activity
 
 ### ✔ Stats
-<img src="https://ghchart.rshah.org/aranlll"/>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={aranlll}&theme=warm)
 
 ### ✔ Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=aranlll&theme=flat&v=1)
